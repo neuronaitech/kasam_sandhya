@@ -3,6 +3,7 @@
 Created on Mon Nov 26 09:17:48 2018
 
 @author: user
+Download dataset (dataset-original.zip) from here https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE
 """
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation, Flatten
